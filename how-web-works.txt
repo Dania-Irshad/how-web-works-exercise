@@ -1,0 +1,19 @@
+HTTP is Hypertext Transfer Protocol. A protocol for how browsers should communicate.
+
+URL is Uniform Resource Locator. An address used to locate a resource on the internet.
+
+DNS servers are where all IP addresses are stored. It translates host names into IP addresses.
+
+Query String is how you can search for items or how you ask for information from server.
+
+Two HTTP verbs are GET and POST. GET is used to only get information from server whereas POST can also make changes on the server.
+
+HTTP request is when we ask for something from a server. 
+
+HTTP response is when we receive a response back from server.
+
+HTTP headers contains more information about the request to server or a response from server.
+Some request headers are Scheme, Cookie, Accept, etc
+Some response headers are cache-control, server, expires, etc.
+
+When we type "http://somesite.com/some/page.html" into a browser, the browser converts the domain to an IP address and sends out a request to the server. Server then sends back a response and the browser creates the required coding to view that page.
